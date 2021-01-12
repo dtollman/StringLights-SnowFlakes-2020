@@ -1,0 +1,6 @@
+2021-01-09 16:34:35. [3320] DEBUG GeneralLog - Config Tool Start...
+2021-01-09 17:26:10. [13004] DEBUG GeneralLog - Config Tool Start...
+2021-01-09 17:29:57. [8732] DEBUG GeneralLog - Receive:HM10 serial started at 9600
+
+2021-01-09 17:29:57. [8732] DEBUG GeneralLog - Receive:OK
+2021-01-09 17:30:45. [5288] DEBUG GeneralLog - Receive:OK
